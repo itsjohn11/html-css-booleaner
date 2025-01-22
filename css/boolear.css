@@ -1,8 +1,47 @@
 header{
    background-color: aquamarine;
-   
+   width: 100%;
 }
 
-p {
+.logo {
+    width: 20%;
+}
+
+.academy {
+    color: azure;
+}
+
+.highlight {
     background-color: yellow;
+}
+
+tr{
+    background-color: blue;
+    color: white;
+}
+.linea1{
+    background-color: grey;
+    color: black
+}
+
+.linea2 {
+    background-color: white;
+    color: black;
+}
+
+.linea3 {
+    background-color: grey;
+    color: black
+}
+
+
+Footer {
+    background-color: blue;
+    width: 100%
+}
+
+.brevetto {
+    color: white;
+    Height: 100%
+    width: 100%
 }
