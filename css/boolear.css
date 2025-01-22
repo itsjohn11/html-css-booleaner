@@ -1,5 +1,8 @@
 header{
-    background-color: aquamarine;
-    font-size: 5%
+   background-color: aquamarine;
+   
 }
 
+p {
+    background-color: yellow;
+}
