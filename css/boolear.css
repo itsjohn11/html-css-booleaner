@@ -1,6 +1,6 @@
 header{
-   background-color: aquamarine;
-   width: 100%;
+   background-color: rgb(6, 112, 251);
+   padding-block-start: 0%;
 }
 
 .logo {
@@ -8,7 +8,7 @@ header{
 }
 
 #academy {
-    color: aquamarine;
+    color: rgb(37, 18, 242);
 }
 
 .didascalia {
@@ -20,33 +20,33 @@ header{
 }
 
 tr{
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.518);
     color: white;
 }
-.linea1{
-    background-color: grey;
+.line1{
+    background-color: rgb(192, 191, 191);
     color: black
 }
 
-.linea2 {
+.line2 {
     background-color: white;
     color: black;
 }
 
-.linea3 {
-    background-color: #af9e9e;
+.line3 {
+    background-color: #d0d0d0;
     color: black
 }
 
 
 Footer {
-    background-color: blue;
-    height: 100%;
+    background-color: #0404f3;
+    padding-block-end:5% ;
 }
 
 .brevetto {
     color: white;
     height: 100%;
     text-align: center;
-    font-weight: 100%;
+    font-weight: 0%;
 }
