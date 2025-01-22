@@ -7,8 +7,12 @@ header{
     width: 20%;
 }
 
-.academy {
-    color: azure;
+#academy {
+    color: aquamarine;
+}
+
+.didascalia {
+    font-size: 10px;
 }
 
 .highlight {
@@ -30,18 +34,19 @@ tr{
 }
 
 .linea3 {
-    background-color: grey;
+    background-color: #af9e9e;
     color: black
 }
 
 
 Footer {
     background-color: blue;
-    width: 100%
+    height: 100%;
 }
 
 .brevetto {
     color: white;
-    Height: 100%
-    width: 100%
+    height: 100%;
+    text-align: center;
+    font-weight: 100%;
 }
