@@ -7,6 +7,9 @@ header{
     width: 20%;
 }
 
+.fonte {
+    font-size: 10px;
+}
 #academy {
     color: rgb(37, 18, 242);
 }
